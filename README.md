@@ -1,4 +1,4 @@
-# Kavholm AirBnB Clone Lab 1 
+# AirBnB
 
 For this lab, you will be creating a clone of AirBnB - a modern booking platform for local bed and breakfasts. This competitor application will be geared towards celebrities only, in the hopes of attracing the highest revenue customers to the platform. Celebrities should be able to sign up, list any of their personal residences, and let other celebrities book trips to stay in their houses.
 
